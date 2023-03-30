@@ -20,5 +20,13 @@ The basic motive is to try to find out the core importance of data science/ML/AI
 
 4)Model selection , model training , model evaluation are the steps which follow by. These are one of the most common steps which are mandatory in any Machine learning model. 
 
+# WORKING:
+
+1)Basic interface displaying an athletes current values(SLEEP,STRESS,TRAINING LOAD,ATL/CTL,BMI) and prediciting whether he is prone to an injury in the near future.
+![image](https://user-images.githubusercontent.com/83355479/228835221-5d6dae88-4c6a-48f5-8ba1-0c8bda3024ef.png)
+
+![image](https://user-images.githubusercontent.com/83355479/228836590-2a8534f9-c97b-4630-896c-10e3b215286b.png)
+
+
 
 
