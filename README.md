@@ -27,6 +27,17 @@ The basic motive is to try to find out the core importance of data science/ML/AI
 
 ![image](https://user-images.githubusercontent.com/83355479/228836590-2a8534f9-c97b-4630-896c-10e3b215286b.png)
 
+# ANALYSIS:
 
+1)Attribute importance graph, as observed stress plays a very important role 
+![image](https://user-images.githubusercontent.com/83355479/228837256-ddb2d933-7f32-4189-93fe-dec085b8d3c7.png)
+
+2)Decision tree(CART)
+
+![image](https://user-images.githubusercontent.com/83355479/228837397-25745c56-10bc-494c-ad25-a5751a86625b.png)
+
+3)Comaparision between injured and not injured player
+
+![image](https://user-images.githubusercontent.com/83355479/228837460-01c88a3c-0364-4fbb-aad1-5943dc4014c2.png)
 
 
